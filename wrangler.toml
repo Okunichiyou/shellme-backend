@@ -1,0 +1,4 @@
+name = "shellme-backend"
+main = "src/index.ts"
+compatibility_date = "2025-02-22"
+minify = true
